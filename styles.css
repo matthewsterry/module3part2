@@ -1,0 +1,33 @@
+
+#collapsable-nav > ul {
+    background-color: #D3D3D3;
+}
+
+.container section {
+   background-color: lightGray; 
+   font-family: 'Roboto Mono', monospace;
+   margin-bottom:20px;
+}
+
+.navbar-brand {
+ font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+	font-family: 'Roboto Mono', monospace;
+}
+
+/* Desktops */
+@media (min-width:768px){ 
+
+}
+
+/* Tablets */
+@media (min-width:481px) and (max-width: 767px){ 
+
+}
+
+/* Smartphones */
+@media (max-width: 480px){ 
+    
+}
